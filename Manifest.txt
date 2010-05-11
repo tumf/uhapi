@@ -1,0 +1,17 @@
+History.txt
+Manifest.txt
+PostInstall.txt
+README.rdoc
+Rakefile
+lib/unit_hosting.rb
+lib/unit_hosting/base.rb
+lib/unit_hosting/vm.rb
+lib/unit_hosting/vm_group.rb
+lib/unit_hosting/vm_recipe.rb
+lib/unit_hosting/hadoop.rb
+lib/unit_hosting/hadoop/cluster_manager.rb
+script/console
+script/destroy
+script/generate
+test/test_helper.rb
+test/test_unit_hosting.rb
