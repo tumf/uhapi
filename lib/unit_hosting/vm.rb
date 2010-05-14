@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 # vim:set fileencoding=utf-8:
-require 'unit_hosting'
+require 'unit_hosting/base'
 
 module UnitHosting
   class Vm < Base
